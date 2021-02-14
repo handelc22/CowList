@@ -8,8 +8,8 @@
   },
   "author": "Colleen Handel",
   "license": "ISC",
-  "devDependencies": {
-    "eslint": "^7.20.0",
-    "eslint-plugin-react": "^7.22.0"
+  "devDependencies": {},
+  "dependencies": {
+    "eslint": "^7.20.0"
   }
 }
