@@ -1,0 +1,15 @@
+{
+  "name": "hr-rfe1-cowlist",
+  "version": "1.0.0",
+  "description": "A CRUD app using React that interfaces with a RESTful API powered by Node and a database from scratch. The app will display a cow list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colleen Handel",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.20.0",
+    "eslint-plugin-react": "^7.22.0"
+  }
+}
